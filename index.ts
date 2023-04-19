@@ -1,5 +1,3 @@
-function greet(name: string) {
-    console.log(`Hello, ${name}!`);
-  }
-  
-  greet("Biswajit");
+import {app} from './example';
+
+app();
